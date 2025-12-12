@@ -1,0 +1,5 @@
+{
+  "name": "Construction Mini ERP",
+  "description": "A React-based ERP prototype for construction management featuring project tracking, financial invoicing, and logic-based AI risk assessment, using LocalStorage for data persistence.",
+  "requestFramePermissions": []
+}
